@@ -1,0 +1,23 @@
+{
+  "name": "TimeManager",
+  "version": "1.0.0",
+  "description": "Electron Js app to help peaple manage their time.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaSyromiatnikov/TimeManager.git"
+  },
+  "keywords": [],
+  "author": "Nikita Syromiatnikov",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/NikitaSyromiatnikov/TimeManager/issues"
+  },
+  "homepage": "https://github.com/NikitaSyromiatnikov/TimeManager#readme",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}

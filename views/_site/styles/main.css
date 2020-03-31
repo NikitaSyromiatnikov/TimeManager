@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+:root {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #cacaca;
+    background-color: #212121;
+
+    /* background dark */
+    --bg-dark: #121212;
+    --bg-primary-dark: #212121;
+    --bg-secondary-dark: #303030;
+    --bg-ordinary-dark: #424242;
+
+    /* backgroung light */
+    --bg-light: #f1f1f1;
+    --bg-primary-light: #e2e2e2;
+    --bg-secondary-light: #dddddd;
+    --bg-ordinary-light: #c8c8c8;
+
+    /* text */
+    --text-primary: #ff7d7d;
+    --text-secondary: #ff9b9b;
+    --text-ordinary: #cacaca;
+
+    /* buttons */
+    --button-primary: #3ae9d7;
+    --button-primary-hover: #26a69a;
+    --button-ordinary: #8dd2d2;
+    --button-ordinary-hover: #75b1b1;
+
+    /* smoothing */
+    --border-radius: 8px;
+
+    /* animation */
+    --transition-speed: 300ms;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: var(--text-ordinary);
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
