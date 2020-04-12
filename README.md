@@ -1,6 +1,6 @@
 # TimeManager
 
-Electron Js app to help peaple manage their time. 
+Electron Js app to help people manage their time. 
 
 ### Installing
 
